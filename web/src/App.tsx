@@ -1,11 +1,11 @@
 import React from 'react';
 
-import Home from './Pages/Home';
+import Routes from './routes';
 
 import './App.css';
 
 function App() {
-  return <Home />;
+  return <Routes />;
 }
 
 export default App;
